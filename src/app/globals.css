@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-home-section {
+    background-image: url('/SafeLink.png');
+    background-position: center;
+    background-repeat: no-repeat;
+  }
