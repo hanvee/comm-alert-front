@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "next.config.js",
+        "use": "@vercel/next"
+      }
+    ],
+    "env": {
+      "NEXT_PUBLIC_GOOGLE_MAPS_API_KEY": "AIzaSyALgL-s03-vuC6ZkAVGFNIJO4KcUfQvywE"
+    }
+  }
+  
